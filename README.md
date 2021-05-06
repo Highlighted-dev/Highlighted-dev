@@ -5,11 +5,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=highlighted-dev" alt="highlighted-dev" /></a> </p>
 
-<h4 align="center">- 🔭 I’m currently working on <b>reflink site in react</b></h4>
+<h4 align="center">🔭 I’m currently working on <b>reflink site in react</b></h4>
 
-<h4 align="center">- 🌱 I’m currently learning <b>react</b> </h4>
+<h4 align="center">🌱 I’m currently learning <b>react</b> </h4>
 
-<h4 align="center">- 👨‍💻 All of my projects are available at [https://github.com/Highlighted-dev?tab=repositories]</h4>
+<h4 align="center">👨‍💻 All of my projects are available at [https://github.com/Highlighted-dev?tab=repositories]</h4>
 
 
 <h3 align="center">Languages and Tools:</h3>
