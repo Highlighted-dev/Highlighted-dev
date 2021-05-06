@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bartosz Korzeniewski, known as Highlighted</h1>
 <h3 align="center">A passionate full-stack developer from Poland</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=highlighted-dev&label=Profile%20views&color=0e75b6&style=flat" alt="highlighted-dev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=highlighted-dev&label=Profile%20views&color=0e75b6&style=dark" alt="highlighted-dev" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=highlighted-dev" alt="highlighted-dev" /></a> </p>
 
-<h4 align="center">- 🔭 I’m currently working on **reflink site in react** </h4>
+<h4 align="center">- 🔭 I’m currently working on <b>reflink site in react</b></h4>
 
-<h4 align="center">- 🌱 I’m currently learning **react** </h4>
+<h4 align="center">- 🌱 I’m currently learning <b>react</b> </h4>
 
 <h4 align="center">- 👨‍💻 All of my projects are available at [https://github.com/Highlighted-dev?tab=repositories]</h4>
 
