@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=highlighted-dev&label=Profile%20views&color=0e75b6&style=dark" alt="highlighted-dev" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=highlighted-dev" alt="highlighted-dev" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=highlighted-dev&theme=onedark" alt="highlighted-dev" /></a> </p>
 
 <h4 align="center">🔭 I’m currently working on <b>reflink site in react</b></h4>
 
