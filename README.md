@@ -10,7 +10,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=highlighted-dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="highlighted-dev" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=highlighted-dev&show_icons=true&theme=dark&locale=en" alt="highlighted-dev" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=highlighted-dev&show_icons=true&theme=dark&locale=en&count_private=true" alt="highlighted-dev" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=highlighted-dev&theme=dark" alt="highlighted-dev" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=highlighted-dev&theme=dark&count_private=true" alt="highlighted-dev" /></p>
 
